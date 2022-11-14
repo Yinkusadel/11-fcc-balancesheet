@@ -73,10 +73,6 @@ html {
     padding: 0 0.75rem 1.5rem 0.75rem;
   }
 
-  span{
-    font-weight:normal;
-  }
-
   table {
     border-collapse: collapse;
     border: 0;
@@ -147,4 +143,14 @@ html {
     font-weight:normal;
     padding:1rem 0 0.75rem;
     margin-right:-13.5rem;
+  }
+
+  tr.data td{
+    vertical-align:top;
+    text-align:right;
+    padding :0.3rem 0.25rem 0;
+  }
+
+  tr.data td:last-of-type{
+    padding :0.5rem;
   }
