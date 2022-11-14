@@ -110,6 +110,12 @@ tr.total td {
   padding: 0 0.25rem;
 }
 
+tr.data td {
+  vertical-align: top;
+  padding: 0.3rem 0.25rem 0;
+  text-align: right;
+}
+
 tr.total td:nth-of-type(3) {
   padding-right: 0.5rem;
 }
@@ -140,12 +146,6 @@ tr.data th .description {
   margin-right: -13.5rem;
 }
 
-tr.data td {
-  vertical-align: top;
-  padding: 0.3rem 0.25rem 0;
-  text-align: right;
-}
-
 tr.data td:last-of-type {
-  padding: 0.5rem;
+  padding-right: 0.5rem;
 }
