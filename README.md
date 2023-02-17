@@ -1,6 +1,5 @@
-# Project Name
-
-> One paragraph statement about the project.
+# Balance Sheet
+> A balance sheet built using pseudo selectors
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,13 +7,18 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- html
+- h1, span, 
+- section 
+- div
+- table, caption 
+- thead, tr, td
+- CSS
+- pseudo selectors, 
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://11-fcc-balancesheet.netlify.app)
 
 ### Development (Running locally)
 
