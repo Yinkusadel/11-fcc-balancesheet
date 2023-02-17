@@ -1,4 +1,5 @@
 # Balance Sheet
+
 > A balance sheet built using pseudo selectors
 
 ![screenshot](./app_screenshot.png)
@@ -8,13 +9,13 @@ Additional description of the project and its features.
 ## Built With
 
 - html
-- h1, span, 
-- section 
+- h1, span,
+- section
 - div
-- table, caption 
+- table, caption
 - thead, tr, td
 - CSS
-- pseudo selectors, 
+- pseudo selectors,
 
 ## Live Demo
 
