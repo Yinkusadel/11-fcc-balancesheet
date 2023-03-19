@@ -8,14 +8,25 @@ Additional description of the project and its features.
 
 ## Built With
 
-- html
-- h1, span,
-- section
-- div
-- table, caption
-- thead, tr, td
-- CSS
-- pseudo selectors,
+- ### HTML5 elements
+  - **Heading element**
+    `h1`
+  - **Block element**
+    `div` `section` `table` `caption`
+  - **Inline element**
+    `span`
+  - **table element**
+    `thead` `tr` `td` `th`
+- ### CSS properties
+  - CSS positioning `absolute`,
+  - CSS background for page aesthetic using `background-color`, `background-image`.
+  - CSS selectors `class selector` `id selector` `pseudo selector` `valid selector`
+  - CSS linear gradient
+- ### Linters
+  - [prettier](prettier),
+  - [stylelint](stylelint).
+
+### GitHub Action
 
 ## Live Demo
 
