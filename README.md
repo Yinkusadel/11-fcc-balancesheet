@@ -4,7 +4,7 @@
 
 ![screenshot](./app_screenshot.png)
 
-Additional description of the project and its features.
+### This PR adds a balance sheet page using pseudo selectors, changing the style of an element when you hover over it with your mouse, and trigger of events on your webpage.
 
 ## Built With
 
