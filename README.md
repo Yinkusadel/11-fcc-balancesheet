@@ -4,7 +4,7 @@
 
 ![screenshot](./app_screenshot.png)
 
-### This PR adds a balance sheet page using pseudo selectors, changing the style of an element when you hover over it with your mouse, and trigger of events on your webpage.
+### In this project, you'll build a balance sheet using pseudo selectors. You'll learn how to change the style of an element when you hover over it with your mouse, and trigger other events on your webpage
 
 ## Built With
 
